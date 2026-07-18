@@ -1,6 +1,0 @@
-ticker,symbol,shortName,longName,marketCap,beta,dividendYield,sharesOutstanding,trailingPE,forwardPE,fiftyTwoWeekHigh,fiftyTwoWeekLow,sector,industry
-SRU-UN.TO,SRU-UN.TO,SMARTCENTRES REIT,SmartCentres Real Estate Investment Trust,5909043712,0.85,6.15,144708787,14.06542,15.05,30.9,25.01,Real Estate,REIT - Retail
-REI-UN.TO,REI-UN.TO,RIOCAN REAL EST UN,RioCan Real Estate Investment Trust,6561352704,0.999,5.15,290616179,27.108435,13.888889,23.25,17.485,Real Estate,REIT - Retail
-CHP-UN.TO,CHP-UN.TO,CHOICE PROPERTIES REIT,Choice Properties Real Estate Investment Trust,11899450368,0.781,4.74,328024272,,15.657145,16.87,14.09,Real Estate,REIT - Retail
-AP-UN.TO,AP-UN.TO,ALLIED PROPERTIES REAL ESTATE I,Allied Properties Real Estate Investment Trust,2129712128,1.09,7.05,183955983,,5.6373625,22.27,8.74,Real Estate,REIT - Office
-FCR-UN.TO,FCR-UN.TO,FIRST CAPITAL REIT UNITS,First Capital Real Estate Investment Trust,4965284864,0.885,3.86,212555000,4.6257424,17.303703,23.84,18.1,Real Estate,REIT - Retail
